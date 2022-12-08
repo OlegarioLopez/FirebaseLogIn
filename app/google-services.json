@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "531914525680",
+    "firebase_url": "https://proyectodam-e91e2.firebaseio.com",
+    "project_id": "proyectodam-e91e2",
+    "storage_bucket": "proyectodam-e91e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531914525680:android:ae8b2a59d73f43783cab35",
+        "android_client_info": {
+          "package_name": "com.jetpack.swipetodelete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531914525680-rmogd0iqao3t3lp10o6oncmfi1a6r096.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9S6QjD5RhYSHDnyR3MUrgguTDjwlXsFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531914525680-rmogd0iqao3t3lp10o6oncmfi1a6r096.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531914525680:android:8748bb7b736db9b33cab35",
+        "android_client_info": {
+          "package_name": "es.olegario.gpt3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531914525680-rtimb8nugcr5jupjf968b3hhomb81v59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.olegario.gpt3",
+            "certificate_hash": "55bbf567899ddbf238f5e18f4227b64e6e618fbf"
+          }
+        },
+        {
+          "client_id": "531914525680-rmogd0iqao3t3lp10o6oncmfi1a6r096.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9S6QjD5RhYSHDnyR3MUrgguTDjwlXsFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531914525680-rmogd0iqao3t3lp10o6oncmfi1a6r096.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531914525680:android:1afbf11e29e904443cab35",
+        "android_client_info": {
+          "package_name": "soy.olegariolopez.shoplist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531914525680-rmogd0iqao3t3lp10o6oncmfi1a6r096.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9S6QjD5RhYSHDnyR3MUrgguTDjwlXsFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531914525680-rmogd0iqao3t3lp10o6oncmfi1a6r096.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

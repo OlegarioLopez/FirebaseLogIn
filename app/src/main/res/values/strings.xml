@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">gpt3</string>
+
+    //IDs
+    <string name="web_client_id">531914525680-rmogd0iqao3t3lp10o6oncmfi1a6r096.apps.googleusercontent.com</string>
+
+    //Menu Items
+   <string name="revoke_access_item">Revoke Access</string>
+    <string name="sign_out_item">Sign-out</string>
+</resources>
